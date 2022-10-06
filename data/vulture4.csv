@@ -1,0 +1,63 @@
+,Bird.ID,Unit.ID,Status,Date.Deployed,dep.date,Date.End,end.date,min.censor,max.censor,Cause,Time,date_diff,Mort.Loc
+,62,163113,Inactive,10/5/2016,,4/6/2018,,0,0,UnitOff/TransmissionStop,548,,Botswana
+41,41,175707,Inactive,11/1/2018,18-Nov,11/5/2018,18-Dec,1,1,"Mortality, cause unknown",4,2,Katavi
+60,60,196502,Inactive,11/3/2021,21-Nov,11/18/2021,21-Dec,1,1,Mortality Poison,15,2,Katavi
+44,44,178416,Active,11/2/2021,21-Nov,12/20/2021,22-Jan,0,0,Active,48,3,Katavi
+40,40,175706,Active,11/1/2021,21-Nov,12/20/2021,22-Jan,0,0,Active,49,3,Katavi
+43,43,175707,Active,11/1/2021,21-Nov,12/20/2021,22-Jan,0,0,Active,49,3,Katavi
+62,62,178415,Active,11/1/2021,21-Nov,12/20/2021,22-Jan,0,0,Active,49,3,Katavi
+55,55,196498,Inactive,8/23/2020,20-Aug,11/2/2020,20-Dec,1,1,"Mortality, cause unknown",71,4,Katavi
+3,3,33004,Active,9/20/2021,21-Sep,12/20/2021,22-Jan,0,0,Active,91,5,Katavi
+8,8,33017,Inactive,2/19/2018,18-Feb,6/6/2018,18-Jul,1,1,"Mortality, cause unknown",107,5,Katavi
+1,1,33004,Inactive,2/19/2018,18-Feb,7/17/2018,18-Aug,1,1,"Mortality, cause unknown",148,6,Katavi
+42,42,175707,Inactive,6/12/2019,19-Jun,11/17/2019,19-Dec,1,0,Presumed mortality,158,7,Katavi
+27,27,163119,Inactive,10/30/2018,18-Oct,4/17/2019,19-May,0,0,UnitOff/TransmissionStop,169,7,Katavi
+59,59,196501,Active,8/26/2020,20-Aug,12/20/2021,22-Jan,0,0,Active,481,17,Katavi
+58,58,196500,Active,8/25/2020,20-Aug,12/20/2021,22-Jan,0,0,Active,482,17,Katavi
+57,57,196499,Active,8/23/2020,20-Aug,12/20/2021,22-Jan,0,0,Active,484,17,Katavi
+61,61,178414,Active,8/29/2019,19-Aug,1/12/2021,21-Feb,1,0,Presumed mortality,502,18,Katavi
+9,9,33017,Inactive,10/30/2018,18-Oct,7/17/2020,20-Aug,1,0,Presumed mortality,626,22,Katavi
+39,39,175706,Inactive,10/31/2018,18-Oct,9/10/2020,20-Oct,0,0,UnitOff/TransmissionStop,680,24,Katavi
+2,2,33004,Inactive,10/31/2018,18-Oct,6/8/2021,21-Jul,1,0,Presumed mortality,951,33,Katavi
+7,7,33012,Active,2/18/2018,18-Feb,12/20/2021,22-Jan,0,0,Active,1401,48,Katavi
+4,4,33010,Inactive,2/15/2018,18-Feb,3/24/2018,18-Apr,1,1,"Mortality, cause unknown",37,3,Ruaha
+13,13,151400,Inactive,9/15/2015,15-Sep,11/9/2015,15-Dec,1,1,"Mortality, cause unknown",55,3,Ruaha
+16,16,151401,Inactive,9/15/2015,15-Sep,11/27/2015,15-Dec,1,1,"Mortality, cause unknown",73,4,Ruaha
+14,14,151400,Inactive,2/17/2016,16-Feb,5/4/2016,16-Jun,1,1,"Mortality, cause unknown",77,4,Ruaha
+10,10,33017,Active,8/7/2021,21-Aug,12/20/2021,22-Jan,0,0,Active,135,6,Ruaha
+34,34,175591,Active,8/7/2021,21-Aug,12/20/2021,22-Jan,0,0,Active,135,6,Ruaha
+36,36,175592,Active,8/7/2021,21-Aug,12/20/2021,22-Jan,0,0,Active,135,6,Ruaha
+22,22,163115,Active,8/5/2021,21-Aug,12/20/2021,22-Jan,0,0,Active,137,6,Ruaha
+24,24,163117,Inactive,10/2/2016,16-Oct,4/1/2017,17-May,0,0,UnitOff/TransmissionStop,181,7,Ruaha
+25,25,163118,Inactive,10/2/2016,16-Oct,4/24/2017,17-May,0,0,UnitOff/TransmissionStop,204,8,Ruaha
+56,56,196498,Active,2/22/2021,21-Feb,12/20/2021,22-Jan,0,0,Active,301,11,Ruaha
+17,17,151401,Inactive,2/15/2016,16-Feb,1/13/2018,18-Feb,0,0,UnitOff/TransmissionStop,698,24,Ruaha
+26,26,163119,Inactive,10/3/2016,16-Oct,10/9/2018,18-Nov,1,1,"Mortality, cause unknown",736,26,Ruaha
+11,11,33019,Inactive,2/15/2018,18-Feb,11/14/2020,20-Dec,1,0,Presumed mortality,1003,34,Ruaha
+12,12,33021,Inactive,2/15/2018,18-Feb,12/29/2020,21-Jan,1,1,"Mortality, cause unknown",1048,36,Ruaha
+21,21,163115,Inactive,9/30/2016,16-Sep,7/17/2020,20-Aug,1,0,Presumed mortality,1386,47,Ruaha
+18,18,163112,Active,10/5/2016,16-Oct,6/3/2021,21-Jul,1,1,Mortality Poison,1702,57,Ruaha
+15,15,151400,Active,9/28/2016,16-Sep,7/16/2021,21-Aug,0,0,UnitOff/TransmissionStop,1752,59,Ruaha
+23,23,163116,Active,10/1/2016,16-Oct,12/20/2021,22-Jan,0,0,Active,1906,64,Ruaha
+20,20,163114,Active,9/29/2016,16-Sep,12/20/2021,22-Jan,0,0,Active,1908,64,Ruaha
+46,46,181260,Inactive,11/4/2019,19-Nov,12/16/2019,20-Jan,0,0,UnitOff/TransmissionStop,42,3,Selous
+31,31,175591,Inactive,6/21/2018,18-Jun,8/20/2018,18-Sep,1,1,Mortality Poison,60,3,Selous
+45,45,181260,Inactive,6/27/2019,19-Jun,9/4/2019,19-Oct,1,1,Mortality Poison,69,4,Selous
+28,28,175589,Inactive,6/21/2018,18-Jun,9/16/2018,18-Oct,1,0,Presumed mortality,87,4,Selous
+37,37,175593,Inactive,6/19/2018,18-Jun,10/15/2018,18-Nov,1,1,Mortality Poison,118,5,Selous
+32,32,175591,Inactive,12/21/2018,18-Dec,5/4/2019,19-Jun,1,1,"Mortality, cause unknown",134,6,Selous
+48,48,181261,Inactive,6/27/2019,19-Jun,11/17/2019,19-Dec,1,0,Presumed mortality,143,6,Selous
+33,33,175591,Inactive,6/22/2019,19-Jun,1/24/2020,20-Feb,0,0,UnitOff/TransmissionStop,216,9,Selous
+29,29,175590,Inactive,6/21/2018,18-Jun,6/21/2019,19-Jul,0,0,UnitOff/TransmissionStop,365,14,Selous
+5,5,33010,Inactive,6/19/2018,18-Jun,7/5/2019,19-Aug,1,1,"Mortality, cause unknown",381,14,Selous
+54,54,181266,Inactive,9/29/2020,20-Sep,10/21/2021,21-Nov,0,0,UnitOff/TransmissionStop,387,14,Selous
+47,47,181260,Active,9/25/2020,20-Sep,12/20/2021,22-Jan,0,0,Active,451,16,Selous
+49,49,181261,Active,9/25/2020,20-Sep,12/20/2021,22-Jan,0,0,Active,451,16,Selous
+30,30,175590,Inactive,7/24/2019,19-Jul,6/11/2021,21-Jul,0,0,UnitOff/TransmissionStop,688,24,Selous
+50,50,181262,Active,11/5/2019,19-Nov,12/20/2021,22-Jan,0,0,Active,776,27,Selous
+51,51,181263,Active,11/5/2019,19-Nov,12/20/2021,22-Jan,0,0,Active,776,27,Selous
+52,52,181264,Active,11/5/2019,19-Nov,12/20/2021,22-Jan,0,0,Active,776,27,Selous
+53,53,181265,Active,11/5/2019,19-Nov,12/20/2021,22-Jan,0,0,Active,776,27,Selous
+35,35,175592,Inactive,6/26/2018,18-Jun,9/14/2020,20-Oct,1,1,Mortality Poison,811,28,Selous
+38,38,175593,Inactive,6/22/2019,19-Jun,10/4/2021,21-Nov,0,0,UnitOff/TransmissionStop,835,29,Selous
+6,6,33010,Active,7/24/2019,19-Jul,12/20/2021,22-Jan,0,0,Active,880,30,Selous

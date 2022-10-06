@@ -1,0 +1,25 @@
+AWB
+ Estimate  Est.Error      Q2.5     Q97.5
+R2 0.447305 0.04930292 0.3438312 0.5373728
+
+Bateleur
+    Estimate  Est.Error      Q2.5     Q97.5
+R2 0.5317053 0.04252983 0.4395824 0.6057016
+
+HV
+   Estimate Est.Error      Q2.5     Q97.5
+R2 0.430185 0.1006223 0.2143348 0.5809951
+
+LFV
+    Estimate Est.Error      Q2.5     Q97.5
+R2 0.3978466 0.0781207 0.2265723 0.5198808
+
+Tawny
+   Estimate Est.Error  Q2.5 Q97.5
+R2    0.383     0.065 0.251 0.501
+
+WH
+    Estimate  Est.Error      Q2.5     Q97.5
+R2 0.2866805 0.07770899 0.1474583 0.4448344
+
+

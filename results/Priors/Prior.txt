@@ -1,0 +1,6 @@
+newprior <-
+  c(
+    set_prior("normal(0,.8)", class = "b", coef = "Intercept"),
+    set_prior("normal(0,.8)", class = "b", coef = "NPRuaha"),
+    set_prior("normal(0,.8)", class = "b", coef = "NPSelous")
+)

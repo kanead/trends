@@ -1,0 +1,23 @@
+AWB
+   Estimate Est.Error Q2.5 Q97.5
+R2    0.432     0.049 0.33 0.515
+
+Bat
+   Estimate Est.Error  Q2.5 Q97.5
+R2     0.53     0.043 0.437 0.605
+
+HV
+   Estimate Est.Error  Q2.5 Q97.5
+R2    0.424     0.104 0.206 0.585
+
+LFV
+   Estimate Est.Error  Q2.5 Q97.5
+R2     0.39      0.08 0.222 0.521
+
+TE
+   Estimate Est.Error  Q2.5 Q97.5
+R2    0.385     0.065 0.251 0.504
+
+WH
+   Estimate Est.Error  Q2.5 Q97.5
+R2     0.29     0.077 0.151 0.445
