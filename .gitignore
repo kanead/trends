@@ -2,3 +2,33 @@
 .Rhistory
 .RData
 .Ruserdata
+figures/AWB_default.pdf
+figures/AWB_encounter.pdf
+figures/AWB_panel.png
+figures/AWB_panel.svg
+figures/AWB_prior.pdf
+figures/bat_encounter.pdf
+figures/Bateleur_default.pdf
+figures/HV_default.pdf
+figures/HV_encounter.pdf
+figures/LFV_default.pdf
+figures/LFV_encounter.pdf
+figures/Tawny_default.pdf
+figures/Tawny_encounter.pdf
+figures/WH_default.pdf
+figures/WHV_encounter.pdf
+manuscript/ResponsetoReviewers_v3AK.docx
+manuscript/ResponsetoReviewersv2.docx
+manuscript/TrendsManuscript_revisions3AK.docx
+manuscript/TrendsManuscript_revisions7AK.docx
+manuscript/TrendsManuscript_revisionsAK.docx
+manuscript/TrendsManuscript_submit_AM.docx
+matrix models/Age-structured matrix for vultures.xlsx
+matrix models/MatrixPopModel.pdf
+matrix models/Notes.docx
+matrix models/Population growth models in popbio_AM.R
+reviews/ResponsetoReviewersAK.docx
+reviews/Review_notes_for_authors.pdf
+reviews/Reviewer 2.docx
+reviews/Reviews_bigissues.docx
+summary of results.xlsx
